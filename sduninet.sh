@@ -1,6 +1,6 @@
 #!/bin/bash
 
-wpa=/wpa_supplicant.conf
+wpa=/etc/wpa_supplicant.conf
 interface=/etc/network/interfaces
 
 clear
