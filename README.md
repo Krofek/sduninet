@@ -3,8 +3,24 @@ ________
     $ wget https://raw.github.com/Krofek/sduninet/master/sduninet.sh
 
 odpri sduni net in popravi:
-spremeni wpa=* v wpa=/etc/wpa_supplicant.conf
-spremeni interface=* v interface=/etc/network/interfaces
+
+spremeni
+
+    wpa=/home/krofek/wpa_supplicant.conf
+
+v
+
+    wpa=/etc/wpa_supplicant.conf
+
+spremeni 
+
+    interface=/home/krofek/interfaces
+
+v
+
+    interface=/etc/network/interfaces
+
+zaženi z:
 
     $ chmod +x sduninet.sh
     $ ./sduninet.sh
