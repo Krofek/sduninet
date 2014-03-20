@@ -6,4 +6,9 @@ sledi navodilom...
 
 na lastno odgovornost...zadeva je nepreverjena.
 
+TO DO:
+------
 
+OpenWRT setup script...(I dont own one atm, but it should be possible to do one, since it uses wpa_supplicant to auth :))
+
+Language mix...my bad.
